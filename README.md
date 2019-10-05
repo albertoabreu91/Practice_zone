@@ -18,4 +18,4 @@ The idea of this repo is to practice Python through its application to different
 
 ## Links
 
-- [New_Orleans police department] (https://openpolicing.stanford.edu/)
+- [New_Orleans police department](https://openpolicing.stanford.edu/)
